@@ -19,3 +19,5 @@ Everyone dancin' merrily,
 In the new old-fashioned way.
 
 Feature commit 1
+
+Feature commit 2
